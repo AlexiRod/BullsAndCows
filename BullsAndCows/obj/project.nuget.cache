@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0/6mwXDlUnoo+ctV7udKowIJzja/4hH6ZXh5W2BpYlB3XCys3I1X5k2hqyqI4k4Fj//GtuNMRCWcjQgGOEVXw==",
+  "success": true,
+  "projectFilePath": "D:\\ВШЭ\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

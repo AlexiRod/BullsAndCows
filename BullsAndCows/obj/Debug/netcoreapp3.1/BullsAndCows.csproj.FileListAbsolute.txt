@@ -1,0 +1,26 @@
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.exe
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.deps.json
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.dll
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.pdb
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.dll
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.pdb
+D:\ВШЭ\Прога\Домашки\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\bin\Debug\netcoreapp3.1\BullsAndCows.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\BullsAndCows\BullsAndCows\obj\Debug\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
